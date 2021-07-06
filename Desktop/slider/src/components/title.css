@@ -1,0 +1,11 @@
+.title {
+    display: flex;
+     margin: 6rem 0 6rem;
+    justify-content: center;
+}
+
+.title h1 {
+    padding: 1rem;
+    border-top: 1px solid rgba(0, 0, 0, 0.301);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.301);
+}
